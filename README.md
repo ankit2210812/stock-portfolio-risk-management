@@ -16,9 +16,6 @@ We were also give a constrains/conditions that we are allowed to invest one hund
 
 - We will convert the given pdf into a EXCEL Sheet for better workability (we used a website to convert [pdf to excel](https://www.ilovepdf.com/pdf_to_excel))
 
-- ![image](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/ecee08f5-b4e9-4b89-b1c7-d85bdaeae757)
-
-
 
 - We also convert all the Date in the EXCEL into the format of **YYYYMMDD**, for example : from *Apr 15, 2024* to *20240425*
 
